@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+
+__pycache__/
+.venv/
+.env
+.ipynb_checkpoints/
+
+data/
+*.csv
+*.xlsx
+*.db
+!1_E2E_Product_Analytics_RetailRocket/data/.gitkeep
