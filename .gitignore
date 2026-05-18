@@ -1,5 +1,4 @@
 .DS_Store
-Thumbs.db
 
 __pycache__/
 .venv/
@@ -7,7 +6,5 @@ __pycache__/
 .ipynb_checkpoints/
 
 *.csv
-*.xlsx
-*.db
 
 !.gitkeep
